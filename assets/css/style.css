@@ -1,0 +1,15 @@
+body{
+    background-image: url(../images/train_pattern.jpg);
+}
+
+.jumbotron{
+    background-color: rgb(214, 35, 50);
+    color: white;
+    font-weight: bolder;
+    text-align: center;
+}
+
+.card-header{
+    background-color: rgb(17, 54, 90);
+    color: white;
+}
